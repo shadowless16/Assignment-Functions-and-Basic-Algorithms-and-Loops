@@ -1,6 +1,6 @@
 # Task 1: Adding Even Numbers (10 points)
 #  Objective: Write a Python program that calculates the sum of all even numbers between 1 and
-# 100 (inclusive).  Instructions: Use a for loop and the range() function to iterate through the even numbers. Task 2: FizzBuzz Challenge (10 points)
+# 100 (inclusive).  Instructions: Use a for loop and the range() function to iterate through the even numbers. 
 
 even_numbers = 0
 
