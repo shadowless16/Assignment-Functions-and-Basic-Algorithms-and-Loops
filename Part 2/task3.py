@@ -4,7 +4,7 @@ def number_guessing_game():
     target_number = random.randint(1, 10)
     guess = None
     
-    print("U Welcome to the Number Guessing Game!")
+    print("U are Welcome to the Number Guessing Game!")
     
     while guess != target_number:
         guess = int(input("Enter your guess: "))
